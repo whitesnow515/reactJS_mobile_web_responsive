@@ -1,0 +1,9 @@
+.hover-after:hover::after {
+  width:  auto;
+}
+.hover-after::after {
+  width:  0%;
+}
+.hover-after:focus {
+  width:  auto;
+}

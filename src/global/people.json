@@ -1,0 +1,126 @@
+{
+  "data" : [
+    {
+      "id": 0,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people1.png"
+    },
+    {
+      "id": 1,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people2.png"
+    },
+    {
+      "id": 2,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people3.png"
+    },
+    {
+      "id": 3,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people4.png"
+    },
+    {
+      "id": 4,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people5.png"
+    },
+    {
+      "id": 5,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people6.png"
+    },
+    {
+      "id": 6,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people7.png"
+    },
+    {
+      "id": 7,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people8.png"
+    },
+    {
+      "id": 8,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people9.png"
+    },
+    {
+      "id": 9,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people10.png"
+    },
+    {
+      "id": 10,
+      "name" : "Lakewood at Lake Merced",
+      "price": 3500,
+      "x": 222,
+      "y": 222,
+      "title1": "2BD",
+      "title12": "2CD",
+      "brief" : "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "img" : "/images/people/people11.png"
+    }
+
+  ]
+}

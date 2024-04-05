@@ -1,0 +1,46 @@
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 100px rgb(255, 255, 255); 
+  border-radius: 5px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(17, 17, 17); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #272727; 
+  width: 2px;
+}
+.mapContainerDiv {
+  z-index: 50; /* Lower than the Header's z-index */
+ }
+ 
+ .peopleListDiv {
+  z-index: 50; /* Lower than the Header's z-index */
+ }
+
+ .header .drag-icon {
+  cursor: grab;
+  user-select: none;
+  padding: 15px;
+  margin-top: -15px;
+}
+
+.your-element {
+  height: 50vh; /* Example: 50% of the viewport height */
+ }
+ 
+ /* Adjust height for small mobile devices */
+ @media (max-width: 480px) {
+  .your-element {
+     height: 30vh; /* Example: 30% of the viewport height */
+  }
+ }
